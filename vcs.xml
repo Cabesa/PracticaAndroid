@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/Cabesa/Prueba1.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Cabesa/Prueba3.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\aleja\Desktop\Proyectos" />
