@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="user">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="acceso">Ok, acceso al sistema.</string>
+    <string name="denegado">El Usuario o la Contraseña son inválidos</string>
+</resources>
