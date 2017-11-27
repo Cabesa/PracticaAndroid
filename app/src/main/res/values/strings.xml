@@ -1,8 +1,16 @@
 <resources>
-    <string name="app_name">Login</string>
-    <string name="user">Usuario</string>
-    <string name="pass">Contraseña</string>
-    <string name="btnEntrar">Entrar</string>
-    <string name="acceso">Ok, acceso al sistema.</string>
-    <string name="denegado">El Usuario o la Contraseña son inválidos</string>
+    <string name="app_name">Practica</string>
+    <string-array name="opcionesLista">
+        <item>Java</item>
+        <item>PHP</item>
+        <item>Python</item>
+
+    </string-array>
+    <string-array name="descripcionesLista">
+        <item>Descripcion 1</item>
+        <item>Descripcion 2</item>
+        <item>Descripcion 3</item>
+
+    </string-array>
+    <string name="receta">Receta</string>
 </resources>
