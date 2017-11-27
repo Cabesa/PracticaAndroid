@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practica</string>
+    <string-array name="opcionesLista">
+        <item>Java</item>
+        <item>PHP</item>
+        <item>Python</item>
+
+    </string-array>
+    <string-array name="descripcionesLista">
+        <item>Descripcion 1</item>
+        <item>Descripcion 2</item>
+        <item>Descripcion 3</item>
+
+    </string-array>
+    <string name="receta">Receta</string>
+</resources>
